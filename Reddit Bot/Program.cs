@@ -6,7 +6,7 @@ namespace Reddit_Bot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!k");
         }
     }
 }
