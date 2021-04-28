@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reddit Bot", "Reddit Bot\Reddit Bot.csproj", "{F51FECFD-B01D-45D2-ACC7-F8FF53211F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51FECFD-B01D-45D2-ACC7-F8FF53211F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51FECFD-B01D-45D2-ACC7-F8FF53211F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51FECFD-B01D-45D2-ACC7-F8FF53211F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51FECFD-B01D-45D2-ACC7-F8FF53211F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A219CEB-7CFA-433E-99C2-1A265B09607A}
+	EndGlobalSection
+EndGlobal
